@@ -1,0 +1,6 @@
+  encoding: charset=utf8&parseTime=True&loc=Local
+  reconnect: false
+  tcp: tcp(127.0.0.1:3306)
+  database: simplerest
+  username: moon
+  password: root
